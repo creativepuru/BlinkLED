@@ -8,7 +8,7 @@
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=📚+This+project+aims+to+provide+a+simple+versatile+solution+for+controlling+LEDs+using+an+Arduino+board;✨+I+am+constantly+adding+new+contents.;+💭So+make+sure+to+check+back+often+??)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=📚+This+project+aims+to+provide+a+simple+versatile+solution+for+controlling+LEDs+using+an+Arduino+board;✨+I+am+constantly+adding+new+contents.;+💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
 # 📚 Table of Contents
 ### 🔰 [ABOUT](#about)
