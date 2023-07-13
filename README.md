@@ -21,14 +21,14 @@
 
 <br> </br>
 
-# About
+# ABOUT
 ### Welcome to the BlinkLED repository! 
 ### This project aims to provide a simple and versatile solution for controlling LEDs using an Arduino board. 
 ### Whether you're a beginner in electronics or an experienced hobbyist, BlinkLED offers an accessible way to experiment with LED blinking patterns and learn about embedded systems programming.
 
 <br> </br>
 
-# Features
+# FEATURES
 - ### Easy-to-use: BlinkLED provides a straightforward interface for controlling LEDs connected to an Arduino board. With just a few lines of code, you can create captivating light patterns and customize their behavior.
 
 - ### Versatile LED control: The library supports various LED types, including single-color LEDs, RGB LEDs, and addressable LED strips. You can control individual LEDs or entire LED strips, adjusting their colors, brightness, and timing.
@@ -39,7 +39,7 @@
 
 <br> </br>
 
-# Getting Started
+# GETTING STARTED
 ### To get started with BlinkLED, follow these steps:
 
 - ### Hardware Setup: Connect your Arduino board to the LEDs according to the provided circuit diagram. Make sure everything is properly connected and powered.
@@ -52,7 +52,7 @@
 
 <br> </br>
 
-# Contributing
+# CONTRIBUTING
 ### Contributions to BlinkLED are more than welcome! If you find a bug, have an idea for an improvement, or want to add new features, please open an issue in the GitHub repository. You can also submit pull requests with your changes.
 
 ### We welcome contributions from the community.
@@ -67,7 +67,7 @@
 
 <br> </br>
 
-# Social Links
+# SOCIAL LINKS
 
 <p align="right">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" /> </p>
@@ -88,7 +88,7 @@
 
 <br> </br>
 
-# License
+# LICENSE
 ### My [Blink LED repository](https://github.com/creativepuru/BlinkLED) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/BlinkLED/blob/main/LICENSE) License. 
 - See [LICENSE](https://github.com/creativepuru/BlinkLED/blob/main/LICENSE) for more information.
 
@@ -106,3 +106,7 @@
 
 </b>
 
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
