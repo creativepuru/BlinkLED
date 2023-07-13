@@ -4,20 +4,20 @@
 
 <div align="center"> 
 
-[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=??+WELCOME+TO+MY+BLINK+LED+REPOSITORY+??)](https://github.com/creativepuru/BlinkLED)
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+BLINK+LED+REPOSITORY+📘)](https://github.com/creativepuru/BlinkLED)
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=??+This+project+aims+to+provide+a+simple+versatile+solution+for+controlling+LEDs+using+an+Arduino+board;?+I+am+constantly+adding+new+contents.;??+So+make+sure+to+check+back+often+??)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=1200&height=120&lines=📚+This+project+aims+to+provide+a+simple+versatile+solution+for+controlling+LEDs+using+an+Arduino+board;✨+I+am+constantly+adding+new+contents.;+💭So+make+sure+to+check+back+often+??)](https://github.com/creativepuru)
 
-# ?? Table of Contents
-### ?? [ABOUT](#about)
-### ?? [FEATURES](#features)
-### ?? [GETTING STARTED](#getting-started)
-### ?? [CONTRIBUTIONS ??](#contributing)
-### ?? [SOCIAL LINKS ??](#social-links)
-### ?? [LICENSE](#license)
-### ???? [BUY ME COFFEE ?](#support-my-work)
+# 📚 Table of Contents
+### 🔰 [ABOUT](#about)
+### 🔰 [FEATURES](#features)
+### 💻 [GETTING STARTED](#getting-started)
+### 📣 [CONTRIBUTIONS 🤝](#contributing)
+### 📲 [SOCIAL LINKS 💻](#social-links)
+### 📖 [LICENSE](#license)
+### 👉🏻 [BUY ME COFFEE ☕](#support-my-work)
 
 <br> </br>
 
@@ -70,21 +70,21 @@
 # Social Links
 
 <p align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=??+How+to+reach+me+??+" alt="How to Reach Me" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+💻+" alt="How to Reach Me" /> </p>
 
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-??%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Purushottam Anand's LinkedIn Profile")
 
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=for-the-badge&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 
-[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-??%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
+[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
 <br> </br>
 
 # Let's learn and grow together
-- ?? We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
-- ?? Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! ??
-- ?? Let's embark on this exciting journey of mastering DSA with Python! 
-### Happy coding! ????
+- 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
+- 💪 Feel free to connect with me on [LinkedIn](https://openinapp.co/linkedinpuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
+- 🌟 Let's embark on this exciting journey of mastering DSA with Python! 
+### Happy coding! 🚀💻
 
 <br> </br>
 
@@ -96,12 +96,13 @@
 
 ## SUPPORT MY WORK
 
-### ?? Thank you for visiting my repository, and happy exploring ??
+### ❤️ Thank you for visiting my repository, and happy exploring 🤗
 
-### [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20?-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+### [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
 </b>
+
